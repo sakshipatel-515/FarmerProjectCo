@@ -1,0 +1,21 @@
+body{
+    background-image: url(images/1-indian-rural-farmer-senior-man-showing-smart-phone-field-KXDCHR.jpg);
+}
+h1{
+    text-align: center;
+    color: green;
+}
+table,tr,td,th{
+    border: 2px solid black;
+}
+div{
+    font-size: 20px;
+    color: white;
+}
+table{
+    background-color: green;
+}
+
+
+
+ 

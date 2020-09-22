@@ -1,0 +1,42 @@
+body{
+    background-image: url(images/crops-216880_1280.jpg);
+    height: 100%;
+    no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 3em;
+    color: black;
+    text-align: center;
+}
+h3{
+    font-size: 2em;
+}
+a{
+    font-size: 25px;
+}
+a:link{
+    color: white;
+    padding: 25px;
+    text-align: center;
+    text text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:active{
+    color: palevioletred;
+}
+a:hover{
+    color: palevioletred;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+button{
+    padding: 10px;
+    background-color: darkgreen;
+}

@@ -1,0 +1,15 @@
+body{
+    background-image: url(images/pexels-photo-221016.jpeg);
+}
+a{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+div{
+  text-align: center;
+    margin: 0 auto;
+}

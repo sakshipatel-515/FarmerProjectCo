@@ -1,0 +1,42 @@
+body{
+    background-image: url(images/barley-2117454_1920.jpg);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+.right{
+    float: right;
+}
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+}
+li a:hover{
+   background-color: palevioletred;
+}
+li a:active{
+    background-color: peru;
+}
+div{ 
+   font-size: 35px;
+    text-align: center;
+    color: black;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    
+}
+

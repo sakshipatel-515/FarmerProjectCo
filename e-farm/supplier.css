@@ -1,0 +1,78 @@
+body{
+    width: 100%;
+    background-image: url(images/cereals-228726_1920.jpg);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 15px 18px;
+    text-decoration: none;
+    
+}
+.right{
+    float: right;
+}
+li a:hover{
+    background-color: greenyellow;
+}
+li a:active{
+ background-color: palevioletred;
+}
+a{
+    display: inline-block;
+    font-size: 15px;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+form{
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px;
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+div{ 
+   font-size: 25px;
+    color: black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+body{
+    background-image: url(images/myanmar-4708901_1920.jpg);
+    color: white;
+    font-size: 35px;
+}
+table,th,tr,td{
+    border: 2px solid white;
+    padding: 10px;
+    color: black;
+    background-color: greenyellow;
+}
+form{
+    color: 2px solid white;
+}
+
+select{
+    color: white;
+}

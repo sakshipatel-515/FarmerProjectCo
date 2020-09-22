@@ -1,0 +1,40 @@
+ body{
+    background-image: url(images/sheep-690198_1920.jpg);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+.right{
+    float: right;
+}
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+}
+li a:hover{
+   background-color: palevioletred;
+}
+li a:active{
+    background-color: peru;
+}
+div{ 
+   font-size: 35px;
+    text-align: center;
+    color: black;
+    
+}
+
+th{
+    background-color: green;
+    color: white;
+}
